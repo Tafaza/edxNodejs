@@ -1,0 +1,4 @@
+node_modules/
+Lab1/csv_to_json_converter/customare-data.json
+Lab1/csv_to_json_converter/customer-data.csv
+Lab1/csv_to_json_converter/package-lock.json
